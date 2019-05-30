@@ -1,4 +1,6 @@
 # Machine-Learning-Algorithm-Building---Identify-Fraud-from-Enron
+## New improved version will be uploaded soon - May 30th, 2019
+
 Identified which Enron employees are more likely to have committed fraud using machine learning and public Enron financial and email data.
 
 ## Files:
